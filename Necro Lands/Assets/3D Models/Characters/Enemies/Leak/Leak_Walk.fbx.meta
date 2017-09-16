@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: 59d0da34398ef9749ac1087b1ab3941d
+timeCreated: 1453014739
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Anima_Data_Counter_FK@0
+    100002: Anima_Data_Counter_SaIControl@0
+    100004: Animation_Data_Counter
+    100006: Camera
+    100008: Chest
+    100010: Head
+    100012: Hips
+    100014: Leak
+    100016: //RootNode
+    100018: Left_ArmFK
+    100020: Left_ArmIK
+    100022: Left_ControlIKGoalFoot
+    100024: Left_ControlIKPlaneUpLeg
+    100026: Left_FootWorldControl
+    100028: Left_IKGoalRightHand
+    100030: Left_IKPlaneNullArm
+    100032: Left_LegFK
+    100034: Left_LegIK
+    100036: Left_NullFoot
+    100038: Left_NullLeg
+    100040: Left_NullRightArm
+    100042: Left_NullRightForeArm
+    100044: Left_NullRightHand
+    100046: Left_NullUpLeg
+    100048: Left_PoleElbow
+    100050: Left_PoleKnee
+    100052: LeftArm
+    100054: LeftFoot
+    100056: LeftForeArm
+    100058: LeftHand
+    100060: LeftHandMiddle1
+    100062: LeftHandMiddle2
+    100064: LeftHandMiddle3
+    100066: LeftHandThumb1
+    100068: LeftHandThumb2
+    100070: LeftHandThumb3
+    100072: LeftLeg
+    100074: LeftShoulder
+    100076: LeftToes
+    100078: LeftUpLeg
+    100080: Light
+    100082: Master_Leak
+    100084: Neck
+    100086: Right_ArmFK
+    100088: Right_ArmIK
+    100090: Right_ControlIKGoalFoot
+    100092: Right_ControlIKPlaneUpLeg
+    100094: Right_FootWorldControl
+    100096: Right_IKGoalRightHand
+    100098: Right_IKPlaneNullArm
+    100100: Right_LegFK
+    100102: Right_LegIK
+    100104: Right_NullArm
+    100106: Right_NullFoot
+    100108: Right_NullForeArm
+    100110: Right_NullHand
+    100112: Right_NullLeg
+    100114: Right_NullUpLeg
+    100116: Right_PoleElbow
+    100118: Right_PoleKnee
+    100120: RightArm
+    100122: RightFoot
+    100124: RightForeArm
+    100126: RightHand
+    100128: RightHandMiddle1
+    100130: RightHandMiddle2
+    100132: RightHandMiddle3
+    100134: RightHandThumb1
+    100136: RightHandThumb2
+    100138: RightHandThumb3
+    100140: RightLeg
+    100142: RightShoulder
+    100144: RightToes
+    100146: RightUpLeg
+    100148: Spine
+    100150: Zero_Left_PoleElbow
+    100152: Zero_Left_PoleKnee
+    100154: Zero_Right_PoleElbow
+    100156: Zero_Right_PoleKnee
+    400000: Anima_Data_Counter_FK@0
+    400002: Anima_Data_Counter_SaIControl@0
+    400004: Animation_Data_Counter
+    400006: Camera
+    400008: Chest
+    400010: Head
+    400012: Hips
+    400014: Leak
+    400016: //RootNode
+    400018: Left_ArmFK
+    400020: Left_ArmIK
+    400022: Left_ControlIKGoalFoot
+    400024: Left_ControlIKPlaneUpLeg
+    400026: Left_FootWorldControl
+    400028: Left_IKGoalRightHand
+    400030: Left_IKPlaneNullArm
+    400032: Left_LegFK
+    400034: Left_LegIK
+    400036: Left_NullFoot
+    400038: Left_NullLeg
+    400040: Left_NullRightArm
+    400042: Left_NullRightForeArm
+    400044: Left_NullRightHand
+    400046: Left_NullUpLeg
+    400048: Left_PoleElbow
+    400050: Left_PoleKnee
+    400052: LeftArm
+    400054: LeftFoot
+    400056: LeftForeArm
+    400058: LeftHand
+    400060: LeftHandMiddle1
+    400062: LeftHandMiddle2
+    400064: LeftHandMiddle3
+    400066: LeftHandThumb1
+    400068: LeftHandThumb2
+    400070: LeftHandThumb3
+    400072: LeftLeg
+    400074: LeftShoulder
+    400076: LeftToes
+    400078: LeftUpLeg
+    400080: Light
+    400082: Master_Leak
+    400084: Neck
+    400086: Right_ArmFK
+    400088: Right_ArmIK
+    400090: Right_ControlIKGoalFoot
+    400092: Right_ControlIKPlaneUpLeg
+    400094: Right_FootWorldControl
+    400096: Right_IKGoalRightHand
+    400098: Right_IKPlaneNullArm
+    400100: Right_LegFK
+    400102: Right_LegIK
+    400104: Right_NullArm
+    400106: Right_NullFoot
+    400108: Right_NullForeArm
+    400110: Right_NullHand
+    400112: Right_NullLeg
+    400114: Right_NullUpLeg
+    400116: Right_PoleElbow
+    400118: Right_PoleKnee
+    400120: RightArm
+    400122: RightFoot
+    400124: RightForeArm
+    400126: RightHand
+    400128: RightHandMiddle1
+    400130: RightHandMiddle2
+    400132: RightHandMiddle3
+    400134: RightHandThumb1
+    400136: RightHandThumb2
+    400138: RightHandThumb3
+    400140: RightLeg
+    400142: RightShoulder
+    400144: RightToes
+    400146: RightUpLeg
+    400148: Spine
+    400150: Zero_Left_PoleElbow
+    400152: Zero_Left_PoleKnee
+    400154: Zero_Right_PoleElbow
+    400156: Zero_Right_PoleKnee
+    4300000: Leak
+    7400000: Base Stack
+    9500000: //RootNode
+    13700000: Leak
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Base Stack
+      takeName: Base Stack
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Master_Leak
+        weight: 1
+      - path: Master_Leak/Leak
+        weight: 1
+      - path: Master_Leak/Leak/Anima_Data_Counter_FK@0
+        weight: 1
+      - path: Master_Leak/Leak/Anima_Data_Counter_SaIControl@0
+        weight: 1
+      - path: Master_Leak/Leak/Animation_Data_Counter
+        weight: 1
+      - path: Master_Leak/Leak/Hips
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Left_ControlIKPlaneUpLeg
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Left_ControlIKPlaneUpLeg/Left_NullUpLeg
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Left_ControlIKPlaneUpLeg/Left_NullUpLeg/Left_NullLeg
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Left_ControlIKPlaneUpLeg/Left_NullUpLeg/Left_NullLeg/Left_NullFoot
+        weight: 1
+      - path: Master_Leak/Leak/Hips/LeftUpLeg
+        weight: 1
+      - path: Master_Leak/Leak/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Master_Leak/Leak/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Master_Leak/Leak/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Right_ControlIKPlaneUpLeg
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Right_ControlIKPlaneUpLeg/Right_NullUpLeg
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Right_ControlIKPlaneUpLeg/Right_NullUpLeg/Right_NullLeg
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Right_ControlIKPlaneUpLeg/Right_NullUpLeg/Right_NullLeg/Right_NullFoot
+        weight: 1
+      - path: Master_Leak/Leak/Hips/RightUpLeg
+        weight: 1
+      - path: Master_Leak/Leak/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Master_Leak/Leak/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Master_Leak/Leak/Hips/RightUpLeg/RightLeg/RightFoot/RightToes
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm/Left_NullRightArm
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm/Left_NullRightArm/Left_NullRightForeArm
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm/Left_NullRightArm/Left_NullRightForeArm/Left_NullRightHand
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm/Right_NullArm
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm/Right_NullArm/Right_NullForeArm
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm/Right_NullArm/Right_NullForeArm/Right_NullHand
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/Zero_Left_PoleElbow
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/Zero_Left_PoleElbow/Left_PoleElbow
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/Zero_Left_PoleElbow/Left_PoleElbow/Left_ArmFK
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/Zero_Left_PoleElbow/Left_PoleElbow/Left_ArmIK
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/Zero_Right_PoleElbow
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/Zero_Right_PoleElbow/Right_PoleElbow
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/Zero_Right_PoleElbow/Right_PoleElbow/Right_ArmFK
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Spine/Chest/Zero_Right_PoleElbow/Right_PoleElbow/Right_ArmIK
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Zero_Left_PoleKnee
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Zero_Left_PoleKnee/Left_PoleKnee
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Zero_Left_PoleKnee/Left_PoleKnee/Left_LegFK
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Zero_Left_PoleKnee/Left_PoleKnee/Left_LegIK
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Zero_Right_PoleKnee
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Zero_Right_PoleKnee/Right_PoleKnee
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Zero_Right_PoleKnee/Right_PoleKnee/Right_LegFK
+        weight: 1
+      - path: Master_Leak/Leak/Hips/Zero_Right_PoleKnee/Right_PoleKnee/Right_LegIK
+        weight: 1
+      - path: Master_Leak/Leak/Left_FootWorldControl
+        weight: 1
+      - path: Master_Leak/Leak/Left_FootWorldControl/Left_ControlIKGoalFoot
+        weight: 1
+      - path: Master_Leak/Leak/Left_IKGoalRightHand
+        weight: 1
+      - path: Master_Leak/Leak/Right_FootWorldControl
+        weight: 1
+      - path: Master_Leak/Leak/Right_FootWorldControl/Right_ControlIKGoalFoot
+        weight: 1
+      - path: Master_Leak/Leak/Right_IKGoalRightHand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

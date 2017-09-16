@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 4cd9a8748ec9a8b4193e452eeb8e521b
+timeCreated: 1463893763
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Anima_Data_Counter_FK@0
+    100002: Anima_Data_Counter_SaIControl@0
+    100004: Animation_Data_Counter
+    100006: Chest
+    100008: Head
+    100010: Hips
+    100012: KuntilanakMerah
+    100014: //RootNode
+    100016: Left_ArmFK
+    100018: Left_ArmIK
+    100020: Left_ControlIKGoalFoot
+    100022: Left_ControlIKPlaneUpLeg
+    100024: Left_FootWorldControl
+    100026: Left_IKGoalRightHand
+    100028: Left_IKPlaneNullArm
+    100030: Left_LegFK
+    100032: Left_LegIK
+    100034: Left_NullFoot
+    100036: Left_NullLeg
+    100038: Left_NullRightArm
+    100040: Left_NullRightForeArm
+    100042: Left_NullRightHand
+    100044: Left_NullUpLeg
+    100046: Left_PoleElbow
+    100048: Left_PoleKnee
+    100050: LeftArm
+    100052: LeftFoot
+    100054: LeftForeArm
+    100056: LeftHand
+    100058: LeftHandMiddle1
+    100060: LeftHandMiddle2
+    100062: LeftHandMiddle3
+    100064: LeftHandThumb1
+    100066: LeftHandThumb2
+    100068: LeftHandThumb3
+    100070: LeftLeg
+    100072: LeftShoulder
+    100074: LeftToes
+    100076: LeftUpLeg
+    100078: Neck
+    100080: Right_ArmFK
+    100082: Right_ArmIK
+    100084: Right_ControlIKGoalFoot
+    100086: Right_ControlIKPlaneUpLeg
+    100088: Right_FootWorldControl
+    100090: Right_IKGoalRightHand
+    100092: Right_IKPlaneNullArm
+    100094: Right_LegFK
+    100096: Right_LegIK
+    100098: Right_NullArm
+    100100: Right_NullFoot
+    100102: Right_NullForeArm
+    100104: Right_NullHand
+    100106: Right_NullLeg
+    100108: Right_NullUpLeg
+    100110: Right_PoleElbow
+    100112: Right_PoleKnee
+    100114: RightArm
+    100116: RightFoot
+    100118: RightForeArm
+    100120: RightHand
+    100122: RightHandMiddle1
+    100124: RightHandMiddle2
+    100126: RightHandMiddle3
+    100128: RightHandThumb1
+    100130: RightHandThumb2
+    100132: RightHandThumb3
+    100134: RightLeg
+    100136: RightShoulder
+    100138: RightToes
+    100140: RightUpLeg
+    100142: Spine
+    100144: Zero_Left_PoleElbow
+    100146: Zero_Left_PoleKnee
+    100148: Zero_Right_PoleElbow
+    100150: Zero_Right_PoleKnee
+    400000: Anima_Data_Counter_FK@0
+    400002: Anima_Data_Counter_SaIControl@0
+    400004: Animation_Data_Counter
+    400006: Chest
+    400008: Head
+    400010: Hips
+    400012: KuntilanakMerah
+    400014: //RootNode
+    400016: Left_ArmFK
+    400018: Left_ArmIK
+    400020: Left_ControlIKGoalFoot
+    400022: Left_ControlIKPlaneUpLeg
+    400024: Left_FootWorldControl
+    400026: Left_IKGoalRightHand
+    400028: Left_IKPlaneNullArm
+    400030: Left_LegFK
+    400032: Left_LegIK
+    400034: Left_NullFoot
+    400036: Left_NullLeg
+    400038: Left_NullRightArm
+    400040: Left_NullRightForeArm
+    400042: Left_NullRightHand
+    400044: Left_NullUpLeg
+    400046: Left_PoleElbow
+    400048: Left_PoleKnee
+    400050: LeftArm
+    400052: LeftFoot
+    400054: LeftForeArm
+    400056: LeftHand
+    400058: LeftHandMiddle1
+    400060: LeftHandMiddle2
+    400062: LeftHandMiddle3
+    400064: LeftHandThumb1
+    400066: LeftHandThumb2
+    400068: LeftHandThumb3
+    400070: LeftLeg
+    400072: LeftShoulder
+    400074: LeftToes
+    400076: LeftUpLeg
+    400078: Neck
+    400080: Right_ArmFK
+    400082: Right_ArmIK
+    400084: Right_ControlIKGoalFoot
+    400086: Right_ControlIKPlaneUpLeg
+    400088: Right_FootWorldControl
+    400090: Right_IKGoalRightHand
+    400092: Right_IKPlaneNullArm
+    400094: Right_LegFK
+    400096: Right_LegIK
+    400098: Right_NullArm
+    400100: Right_NullFoot
+    400102: Right_NullForeArm
+    400104: Right_NullHand
+    400106: Right_NullLeg
+    400108: Right_NullUpLeg
+    400110: Right_PoleElbow
+    400112: Right_PoleKnee
+    400114: RightArm
+    400116: RightFoot
+    400118: RightForeArm
+    400120: RightHand
+    400122: RightHandMiddle1
+    400124: RightHandMiddle2
+    400126: RightHandMiddle3
+    400128: RightHandThumb1
+    400130: RightHandThumb2
+    400132: RightHandThumb3
+    400134: RightLeg
+    400136: RightShoulder
+    400138: RightToes
+    400140: RightUpLeg
+    400142: Spine
+    400144: Zero_Left_PoleElbow
+    400146: Zero_Left_PoleKnee
+    400148: Zero_Right_PoleElbow
+    400150: Zero_Right_PoleKnee
+    4300000: KuntilanakMerah
+    7400000: Base Stack
+    9500000: //RootNode
+    13700000: KuntilanakMerah
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

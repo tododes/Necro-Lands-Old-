@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 95b05ba232bc43446a860d0017ec064c
+timeCreated: 1455019539
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Anima_Data_Counter_FK@0
+    100002: Anima_Data_Counter_SaIControl@0
+    100004: Animation_Data_Counter
+    100006: Camera
+    100008: Chest
+    100010: Head
+    100012: Hips
+    100014: Left_ArmFK
+    100016: Left_ArmIK
+    100018: Left_ControlIKGoalFoot
+    100020: Left_ControlIKPlaneUpLeg
+    100022: Left_FootWorldControl
+    100024: Left_IKGoalRightHand
+    100026: Left_IKPlaneNullArm
+    100028: Left_LegFK
+    100030: Left_LegIK
+    100032: Left_NullFoot
+    100034: Left_NullLeg
+    100036: Left_NullRightArm
+    100038: Left_NullRightForeArm
+    100040: Left_NullRightHand
+    100042: Left_NullUpLeg
+    100044: Left_PoleElbow
+    100046: Left_PoleKnee
+    100048: LeftArm
+    100050: LeftFoot
+    100052: LeftForeArm
+    100054: LeftHand
+    100056: LeftHandMiddle1
+    100058: LeftHandMiddle2
+    100060: LeftHandMiddle3
+    100062: LeftHandThumb1
+    100064: LeftHandThumb2
+    100066: LeftHandThumb3
+    100068: LeftLeg
+    100070: LeftShoulder
+    100072: LeftToes
+    100074: LeftUpLeg
+    100076: Light
+    100078: Marcia.lwo_(2)
+    100080: Marcia:Marcia_body
+    100082: Marcia:Marcia_Hat
+    100084: Marcia_gun_1
+    100086: //RootNode
+    100088: Master_Marcia
+    100090: Neck
+    100092: Right_ArmFK
+    100094: Right_ArmIK
+    100096: Right_ControlIKGoalFoot
+    100098: Right_ControlIKPlaneUpLeg
+    100100: Right_FootWorldControl
+    100102: Right_IKGoalRightHand
+    100104: Right_IKPlaneNullArm
+    100106: Right_LegFK
+    100108: Right_LegIK
+    100110: Right_NullArm
+    100112: Right_NullFoot
+    100114: Right_NullForeArm
+    100116: Right_NullHand
+    100118: Right_NullLeg
+    100120: Right_NullUpLeg
+    100122: Right_PoleElbow
+    100124: Right_PoleKnee
+    100126: RightArm
+    100128: RightFoot
+    100130: RightForeArm
+    100132: RightHand
+    100134: RightHandMiddle1
+    100136: RightHandMiddle2
+    100138: RightHandMiddle3
+    100140: RightHandThumb1
+    100142: RightHandThumb2
+    100144: RightHandThumb3
+    100146: RightLeg
+    100148: RightShoulder
+    100150: RightToes
+    100152: RightUpLeg
+    100154: Spine
+    100156: Zero_Left_PoleElbow
+    100158: Zero_Left_PoleKnee
+    100160: Zero_Right_PoleElbow
+    100162: Zero_Right_PoleKnee
+    400000: Anima_Data_Counter_FK@0
+    400002: Anima_Data_Counter_SaIControl@0
+    400004: Animation_Data_Counter
+    400006: Camera
+    400008: Chest
+    400010: Head
+    400012: Hips
+    400014: Left_ArmFK
+    400016: Left_ArmIK
+    400018: Left_ControlIKGoalFoot
+    400020: Left_ControlIKPlaneUpLeg
+    400022: Left_FootWorldControl
+    400024: Left_IKGoalRightHand
+    400026: Left_IKPlaneNullArm
+    400028: Left_LegFK
+    400030: Left_LegIK
+    400032: Left_NullFoot
+    400034: Left_NullLeg
+    400036: Left_NullRightArm
+    400038: Left_NullRightForeArm
+    400040: Left_NullRightHand
+    400042: Left_NullUpLeg
+    400044: Left_PoleElbow
+    400046: Left_PoleKnee
+    400048: LeftArm
+    400050: LeftFoot
+    400052: LeftForeArm
+    400054: LeftHand
+    400056: LeftHandMiddle1
+    400058: LeftHandMiddle2
+    400060: LeftHandMiddle3
+    400062: LeftHandThumb1
+    400064: LeftHandThumb2
+    400066: LeftHandThumb3
+    400068: LeftLeg
+    400070: LeftShoulder
+    400072: LeftToes
+    400074: LeftUpLeg
+    400076: Light
+    400078: Marcia.lwo_(2)
+    400080: Marcia:Marcia_body
+    400082: Marcia:Marcia_Hat
+    400084: Marcia_gun_1
+    400086: //RootNode
+    400088: Master_Marcia
+    400090: Neck
+    400092: Right_ArmFK
+    400094: Right_ArmIK
+    400096: Right_ControlIKGoalFoot
+    400098: Right_ControlIKPlaneUpLeg
+    400100: Right_FootWorldControl
+    400102: Right_IKGoalRightHand
+    400104: Right_IKPlaneNullArm
+    400106: Right_LegFK
+    400108: Right_LegIK
+    400110: Right_NullArm
+    400112: Right_NullFoot
+    400114: Right_NullForeArm
+    400116: Right_NullHand
+    400118: Right_NullLeg
+    400120: Right_NullUpLeg
+    400122: Right_PoleElbow
+    400124: Right_PoleKnee
+    400126: RightArm
+    400128: RightFoot
+    400130: RightForeArm
+    400132: RightHand
+    400134: RightHandMiddle1
+    400136: RightHandMiddle2
+    400138: RightHandMiddle3
+    400140: RightHandThumb1
+    400142: RightHandThumb2
+    400144: RightHandThumb3
+    400146: RightLeg
+    400148: RightShoulder
+    400150: RightToes
+    400152: RightUpLeg
+    400154: Spine
+    400156: Zero_Left_PoleElbow
+    400158: Zero_Left_PoleKnee
+    400160: Zero_Right_PoleElbow
+    400162: Zero_Right_PoleKnee
+    2300000: Marcia_gun_1
+    3300000: Marcia_gun_1
+    4300000: Marcia:Marcia_body
+    4300002: Marcia:Marcia_Hat
+    4300004: Marcia_gun_1
+    7400000: Base Stack
+    9500000: //RootNode
+    13700000: Marcia:Marcia_body
+    13700002: Marcia:Marcia_Hat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Base Stack
+      takeName: Base Stack
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Marcia.lwo_(2)
+        weight: 1
+      - path: Master_Marcia
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Anima_Data_Counter_FK@0
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Anima_Data_Counter_SaIControl@0
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Animation_Data_Counter
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Left_ControlIKPlaneUpLeg
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Left_ControlIKPlaneUpLeg/Left_NullUpLeg
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Left_ControlIKPlaneUpLeg/Left_NullUpLeg/Left_NullLeg
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Left_ControlIKPlaneUpLeg/Left_NullUpLeg/Left_NullLeg/Left_NullFoot
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/LeftUpLeg
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Right_ControlIKPlaneUpLeg
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Right_ControlIKPlaneUpLeg/Right_NullUpLeg
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Right_ControlIKPlaneUpLeg/Right_NullUpLeg/Right_NullLeg
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Right_ControlIKPlaneUpLeg/Right_NullUpLeg/Right_NullLeg/Right_NullFoot
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/RightUpLeg
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/RightUpLeg/RightLeg/RightFoot/RightToes
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm/Left_NullRightArm
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm/Left_NullRightArm/Left_NullRightForeArm
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm/Left_NullRightArm/Left_NullRightForeArm/Left_NullRightHand
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/Neck/Head/Marcia:Marcia_Hat
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm/Right_NullArm
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm/Right_NullArm/Right_NullForeArm
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm/Right_NullArm/Right_NullForeArm/Right_NullHand
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/Zero_Left_PoleElbow
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/Zero_Left_PoleElbow/Left_PoleElbow
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/Zero_Left_PoleElbow/Left_PoleElbow/Left_ArmFK
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/Zero_Left_PoleElbow/Left_PoleElbow/Left_ArmIK
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/Zero_Right_PoleElbow
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/Zero_Right_PoleElbow/Right_PoleElbow
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/Zero_Right_PoleElbow/Right_PoleElbow/Right_ArmFK
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Spine/Chest/Zero_Right_PoleElbow/Right_PoleElbow/Right_ArmIK
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Zero_Left_PoleKnee
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Zero_Left_PoleKnee/Left_PoleKnee
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Zero_Left_PoleKnee/Left_PoleKnee/Left_LegFK
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Zero_Left_PoleKnee/Left_PoleKnee/Left_LegIK
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Zero_Right_PoleKnee
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Zero_Right_PoleKnee/Right_PoleKnee
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Zero_Right_PoleKnee/Right_PoleKnee/Right_LegFK
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Hips/Zero_Right_PoleKnee/Right_PoleKnee/Right_LegIK
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Left_FootWorldControl
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Left_FootWorldControl/Left_ControlIKGoalFoot
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Left_IKGoalRightHand
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Right_FootWorldControl
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Right_FootWorldControl/Right_ControlIKGoalFoot
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Right_IKGoalRightHand
+        weight: 1
+      - path: Master_Marcia/Marcia:Marcia_body/Right_IKGoalRightHand/Marcia_gun_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

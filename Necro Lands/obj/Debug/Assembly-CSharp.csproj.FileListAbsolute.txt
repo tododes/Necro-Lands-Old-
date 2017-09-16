@@ -1,0 +1,67 @@
+E:\Fantasy Of Evils\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Fantasy Of Evils\Temp\bin\Debug\Mono.Cecil.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\UnityEditor.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\UnityEngine.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\Unity.DataContract.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Fantasy Of Evils\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Fantasy Of Evils\Temp\bin\Debug\UnityEngine.xml
+E:\Fantasy Of Evils\Temp\bin\Debug\UnityEditor.xml
+E:\Fantasy Of Evils\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Fantasy Of Evils\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Fantasy Of Evils\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Fantasy Of Evils\obj\Debug\Assembly-CSharp.dll
+E:\Fantasy Of Evils\obj\Debug\Assembly-CSharp.pdb
+E:\FOE\Temp\bin\Debug\Assembly-CSharp.dll
+E:\FOE\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\FOE\Temp\bin\Debug\Mono.Cecil.dll
+E:\FOE\Temp\bin\Debug\UnityEditor.dll
+E:\FOE\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\FOE\Temp\bin\Debug\UnityEngine.dll
+E:\FOE\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\FOE\Temp\bin\Debug\UnityEngine.UI.dll
+E:\FOE\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\FOE\Temp\bin\Debug\Unity.DataContract.dll
+E:\FOE\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\FOE\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\FOE\Temp\bin\Debug\Unity.CecilTools.dll
+E:\FOE\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\FOE\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\FOE\Temp\bin\Debug\UnityEngine.xml
+E:\FOE\Temp\bin\Debug\UnityEditor.xml
+E:\FOE\Temp\bin\Debug\UnityEngine.UI.xml
+E:\FOE\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\FOE\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\FOE\obj\Debug\Assembly-CSharp.dll
+E:\FOE\obj\Debug\Assembly-CSharp.pdb
+E:\FOE - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+E:\FOE - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\FOE - Copy\Temp\bin\Debug\Mono.Cecil.dll
+E:\FOE - Copy\Temp\bin\Debug\UnityEditor.dll
+E:\FOE - Copy\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\FOE - Copy\Temp\bin\Debug\UnityEngine.dll
+E:\FOE - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\FOE - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+E:\FOE - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\FOE - Copy\Temp\bin\Debug\Unity.DataContract.dll
+E:\FOE - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\FOE - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\FOE - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+E:\FOE - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\FOE - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\FOE - Copy\Temp\bin\Debug\UnityEngine.xml
+E:\FOE - Copy\Temp\bin\Debug\UnityEditor.xml
+E:\FOE - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+E:\FOE - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\FOE - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\FOE - Copy\obj\Debug\Assembly-CSharp.dll
+E:\FOE - Copy\obj\Debug\Assembly-CSharp.pdb

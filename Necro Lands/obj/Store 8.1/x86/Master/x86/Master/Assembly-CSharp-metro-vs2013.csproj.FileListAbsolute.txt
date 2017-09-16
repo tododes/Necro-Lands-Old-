@@ -1,0 +1,17 @@
+E:\FOE\bin\Store 8.1\x86\Master\Assembly-CSharp.dll
+E:\FOE\bin\Store 8.1\x86\Master\Assembly-CSharp.pdb
+E:\FOE\bin\Store 8.1\x86\Master\Assembly-CSharp.pri
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\Assembly-CSharp-metro-vs2013.csprojResolveAssemblyReference.cache
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\Assembly-CSharp.dll
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\Assembly-CSharp.pdb
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\priconfig.xml
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\priconfig.xml.intermediate
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\layout.resfiles
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\layout.resfiles.intermediate
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\resources.resfiles
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\resources.resfiles.intermediate
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\pri.resfiles
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\pri.resfiles.intermediate
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\qualifiers.txt
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\qualifiers.txt.intermediate
+E:\FOE\obj\Store 8.1\x86\Master\x86\Master\MultipleQualifiersPerDimensionFound.txt

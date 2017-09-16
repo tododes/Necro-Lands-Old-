@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MarciaSelectAnim
+  m_Controller: {fileID: 9100000, guid: f313999fab515894bb8c4b8a088e26b9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 53044b4dc8a766746abf5e56fb3b850d, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 06ecebba31a523b418266991474d86df, type: 3}

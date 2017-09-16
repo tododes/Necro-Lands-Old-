@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{0332D0BF-704D-3CE2-BAE7-98B3DA9596A5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_5;UNITY_5_3;UNITY_5;UNITY_PURCHASING;UNITY_ANALYTICS;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;CROSS_PLATFORM_INPUT</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\AchievementButton.cs" />
+     <Compile Include="Assets\AchievementCamera.cs" />
+     <Compile Include="Assets\AmountText.cs" />
+     <Compile Include="Assets\AreYouSureManager.cs" />
+     <Compile Include="Assets\AreYouSurePanel.cs" />
+     <Compile Include="Assets\ArmorText.cs" />
+     <Compile Include="Assets\ArrowUpDown.cs" />
+     <Compile Include="Assets\Atrribute.cs" />
+     <Compile Include="Assets\AttackText.cs" />
+     <Compile Include="Assets\AttributeDisplay.cs" />
+     <Compile Include="Assets\BackToMainMenu.cs" />
+     <Compile Include="Assets\BattleStartText.cs" />
+     <Compile Include="Assets\Billboard.cs" />
+     <Compile Include="Assets\BonusManager.cs" />
+     <Compile Include="Assets\BoxStaticHolder.cs" />
+     <Compile Include="Assets\ButtonEffect.cs" />
+     <Compile Include="Assets\ButtonScript.cs" />
+     <Compile Include="Assets\CameraMainMenuScript.cs" />
+     <Compile Include="Assets\CharController.cs" />
+     <Compile Include="Assets\CharSelectManager.cs" />
+     <Compile Include="Assets\CharacterGrowthRate.cs" />
+     <Compile Include="Assets\CharacterSkillDetail.cs" />
+     <Compile Include="Assets\CheckAmount.cs" />
+     <Compile Include="Assets\ClickName.cs" />
+     <Compile Include="Assets\Coloring.cs" />
+     <Compile Include="Assets\DailyReward.cs" />
+     <Compile Include="Assets\DailyrewardConfirmation.cs" />
+     <Compile Include="Assets\DamageImageClass.cs" />
+     <Compile Include="Assets\DateManager.cs" />
+     <Compile Include="Assets\DestroyBullet.cs" />
+     <Compile Include="Assets\DieButton.cs" />
+     <Compile Include="Assets\DieImage.cs" />
+     <Compile Include="Assets\DieNotification.cs" />
+     <Compile Include="Assets\DisableHelpManager.cs" />
+     <Compile Include="Assets\DisableWhenFar.cs" />
+     <Compile Include="Assets\DisplayAmount.cs" />
+     <Compile Include="Assets\EffectDisplay.cs" />
+     <Compile Include="Assets\Elementals\Scripts\OrbitCamera.cs" />
+     <Compile Include="Assets\Elementals\Scripts\TestParticles.cs" />
+     <Compile Include="Assets\EndlessLevelButton.cs" />
+     <Compile Include="Assets\EnemyBodyRender.cs" />
+     <Compile Include="Assets\EnemyDataLR.cs" />
+     <Compile Include="Assets\EnemyDataManager.cs" />
+     <Compile Include="Assets\EnemyDemoCamera.cs" />
+     <Compile Include="Assets\EnemyEffectScript.cs" />
+     <Compile Include="Assets\EnemyHealth.cs" />
+     <Compile Include="Assets\EnemyItemDrop.cs" />
+     <Compile Include="Assets\EnemyMovementInStory.cs" />
+     <Compile Include="Assets\EnemyScaling.cs" />
+     <Compile Include="Assets\EnemySlider.cs" />
+     <Compile Include="Assets\EnemySpawner.cs" />
+     <Compile Include="Assets\EnemyUI.cs" />
+     <Compile Include="Assets\EquipConfirmation.cs" />
+     <Compile Include="Assets\EquipImage.cs" />
+     <Compile Include="Assets\EscapeScene.cs" />
+     <Compile Include="Assets\ExitUpgradeAttribute.cs" />
+     <Compile Include="Assets\ExtraManager.cs" />
+     <Compile Include="Assets\FadeImage.cs" />
+     <Compile Include="Assets\FadeText.cs" />
+     <Compile Include="Assets\Fading.cs" />
+     <Compile Include="Assets\FillColor.cs" />
+     <Compile Include="Assets\FrenzyScripts\Frenzy.cs" />
+     <Compile Include="Assets\FrenzyScripts\KillingFrenzy.cs" />
+     <Compile Include="Assets\GELeftRight.cs" />
+     <Compile Include="Assets\GEManager.cs" />
+     <Compile Include="Assets\GameMenuController.cs" />
+     <Compile Include="Assets\GetBack.cs" />
+     <Compile Include="Assets\GhostText.cs" />
+     <Compile Include="Assets\GhostWalk.cs" />
+     <Compile Include="Assets\GravePress.cs" />
+     <Compile Include="Assets\GrowingText.cs" />
+     <Compile Include="Assets\HTPLeftRight.cs" />
+     <Compile Include="Assets\HTPManager.cs" />
+     <Compile Include="Assets\HellSphereComponent.cs" />
+     <Compile Include="Assets\HelpButton.cs" />
+     <Compile Include="Assets\HelpManager.cs" />
+     <Compile Include="Assets\HordeSpawner.cs" />
+     <Compile Include="Assets\HordeWarning.cs" />
+     <Compile Include="Assets\InfoSceneButton.cs" />
+     <Compile Include="Assets\InputManager.cs" />
+     <Compile Include="Assets\ItemDetailsController.cs" />
+     <Compile Include="Assets\ItemDetailsImaging.cs" />
+     <Compile Include="Assets\ItemEquipController.cs" />
+     <Compile Include="Assets\LeakAura.cs" />
+     <Compile Include="Assets\LevelText.cs" />
+     <Compile Include="Assets\LevelUpText.cs" />
+     <Compile Include="Assets\LevelXpSlider.cs" />
+     <Compile Include="Assets\LoadingScript.cs" />
+     <Compile Include="Assets\LucyShoot.cs" />
+     <Compile Include="Assets\MainGameCameraScript.cs" />
+     <Compile Include="Assets\ModeButton.cs" />
+     <Compile Include="Assets\ModeCam.cs" />
+     <Compile Include="Assets\ModeName.cs" />
+     <Compile Include="Assets\Modifier.cs" />
+     <Compile Include="Assets\MoneyText.cs" />
+     <Compile Include="Assets\MonthlyReward.cs" />
+     <Compile Include="Assets\MusicVolumeScript.cs" />
+     <Compile Include="Assets\MyScripts\CharacterSelect.cs" />
+     <Compile Include="Assets\MyScripts\Classmenu.cs" />
+     <Compile Include="Assets\MyScripts\Mainmenu.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Bullet.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\CleaveDetector.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\DefendingFrenzy.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Enemy\Enemy.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Enemy\Genderuwo.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Enemy\Kuntilanak.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Enemy\Leak.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Enemy\Pocong.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Enemy\Tuyul.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\EquipSprite.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\GameManager.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\GhostFrenzy.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\HPSlider.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\ItemObject\Item.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\ManaSlider.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Player Shoot\MarciaShoot.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Player Shoot\PlayerShoot.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Player Shoot\TrevorShoot.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Player Skill\GrantActiveSkill.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Player Skill\GrantSkill.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Player Skill\LucyActiveSkill.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Player Skill\LucySkill.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Player Skill\MarciaActiveSkill.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Player Skill\TrevorActiveSkill.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\Player.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\PlayerMove.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\SpawnEnemy.cs" />
+     <Compile Include="Assets\NEW SCRIPTS\goldText.cs" />
+     <Compile Include="Assets\Namespace\MyNamespace.cs" />
+     <Compile Include="Assets\NecroGoldText.cs" />
+     <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\NextScene.cs" />
+     <Compile Include="Assets\OnPress.cs" />
+     <Compile Include="Assets\PassiveSkillImage.cs" />
+     <Compile Include="Assets\PauseButton.cs" />
+     <Compile Include="Assets\PauseCanvas.cs" />
+     <Compile Include="Assets\PawnBall.cs" />
+     <Compile Include="Assets\PlayGamePanel.cs" />
+     <Compile Include="Assets\PlayerActiveSkill.cs" />
+     <Compile Include="Assets\PlayerCanvas.cs" />
+     <Compile Include="Assets\PlayerDead.cs" />
+     <Compile Include="Assets\PlayerWhichOne.cs" />
+     <Compile Include="Assets\PocongAura.cs" />
+     <Compile Include="Assets\PressToCont.cs" />
+     <Compile Include="Assets\Purchaser.cs" />
+     <Compile Include="Assets\QuestDateManager.cs" />
+     <Compile Include="Assets\RenderingCondition.cs" />
+     <Compile Include="Assets\RewardExpText.cs" />
+     <Compile Include="Assets\RewardMoneyText.cs" />
+     <Compile Include="Assets\RewardPlatinumText.cs" />
+     <Compile Include="Assets\SFXVolumeScript.cs" />
+     <Compile Include="Assets\ScaleText.cs" />
+     <Compile Include="Assets\ScalingButton.cs" />
+     <Compile Include="Assets\SceneLevelText.cs" />
+     <Compile Include="Assets\Scripter.cs" />
+     <Compile Include="Assets\Scripts\AchievementScript.cs" />
+     <Compile Include="Assets\Scripts\BulletMove.cs" />
+     <Compile Include="Assets\Scripts\Camera\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\Enemy\EnemyAbilities.cs" />
+     <Compile Include="Assets\Scripts\Enemy\EnemyAttack.cs" />
+     <Compile Include="Assets\Scripts\Enemy\EnemyMovement.cs" />
+     <Compile Include="Assets\Scripts\Enemy\EnemyStatus.cs" />
+     <Compile Include="Assets\Scripts\Enemy\PlayerDetector.cs" />
+     <Compile Include="Assets\Scripts\HashIDs.cs" />
+     <Compile Include="Assets\Scripts\Item\ItemAbilities.cs" />
+     <Compile Include="Assets\Scripts\Item\ItemInventories.cs" />
+     <Compile Include="Assets\Scripts\ItemShopController.cs" />
+     <Compile Include="Assets\Scripts\Player\DetectEnemy.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerAbilities.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerInventories.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\Player\Shoot.cs" />
+     <Compile Include="Assets\Scripts\Player\Status.cs" />
+     <Compile Include="Assets\Scripts\TheAchievement.cs" />
+     <Compile Include="Assets\Scripts\UIController.cs" />
+     <Compile Include="Assets\SetImage.cs" />
+     <Compile Include="Assets\SettingSlider.cs" />
+     <Compile Include="Assets\ShootButton.cs" />
+     <Compile Include="Assets\SkillDetail.cs" />
+     <Compile Include="Assets\SkillDisplayManager.cs" />
+     <Compile Include="Assets\SkillImage.cs" />
+     <Compile Include="Assets\SkillLevel.cs" />
+     <Compile Include="Assets\SkillNode.cs" />
+     <Compile Include="Assets\SkillSceneCameraScript.cs" />
+     <Compile Include="Assets\SkillSprite.cs" />
+     <Compile Include="Assets\SliderText.cs" />
+     <Compile Include="Assets\Sliding.cs" />
+     <Compile Include="Assets\StartText.cs" />
+     <Compile Include="Assets\StartupManager.cs" />
+     <Compile Include="Assets\StoryState.cs" />
+     <Compile Include="Assets\TextTranslate.cs" />
+     <Compile Include="Assets\TheButton.cs" />
+     <Compile Include="Assets\TimeManager.cs" />
+     <Compile Include="Assets\TitleStart.cs" />
+     <Compile Include="Assets\TrailerAttribute.cs" />
+     <Compile Include="Assets\TrailerScript.cs" />
+     <Compile Include="Assets\TrainingMenu.cs" />
+     <Compile Include="Assets\Translating.cs" />
+     <Compile Include="Assets\TreasureChest.cs" />
+     <Compile Include="Assets\TreeRender.cs" />
+     <Compile Include="Assets\TrevorFire.cs" />
+     <Compile Include="Assets\TutorialArrow.cs" />
+     <Compile Include="Assets\TutorialManager.cs" />
+     <Compile Include="Assets\TutorialState.cs" />
+     <Compile Include="Assets\UIC.cs" />
+     <Compile Include="Assets\UpAndDown.cs" />
+     <Compile Include="Assets\UpAndDownNonUI.cs" />
+     <Compile Include="Assets\Upgrade.cs" />
+     <Compile Include="Assets\UpgradeButton.cs" />
+     <Compile Include="Assets\UpgradeNotification.cs" />
+     <Compile Include="Assets\VSText.cs" />
+     <Compile Include="Assets\VirtualJoystick.cs" />
+     <Compile Include="Assets\WELeftRight.cs" />
+     <Compile Include="Assets\WEManager.cs" />
+     <Compile Include="Assets\Wall.cs" />
+     <Compile Include="Assets\WarningText.cs" />
+     <Compile Include="Assets\WaveText.cs" />
+     <Compile Include="Assets\WeaponDataLR.cs" />
+     <Compile Include="Assets\WeaponDataManager.cs" />
+     <Compile Include="Assets\WeeklyReward.cs" />
+     <Compile Include="Assets\WinImage.cs" />
+     <Compile Include="Assets\XButton.cs" />
+     <Compile Include="Assets\YesNoDelete.cs" />
+     <Compile Include="Assets\YesNoQuit.cs" />
+     <Compile Include="Assets\YourName.cs" />
+     <Compile Include="Assets\check.cs" />
+     <Compile Include="Assets\checkName.cs" />
+     <Compile Include="Assets\skillImaging.cs" />
+     <Compile Include="Assets\translateToMenu.cs" />
+     <None Include="Assets\Standard Assets\Skyboxes\skybox info.txt" />
+     <None Include="Assets\Readme.txt" />
+     <None Include="Assets\PolyIslandPack\Shaders\PolyIsland_VertexColor.shader" />
+     <None Include="Assets\Fonts\LuckiestGuy\LICENSE.txt" />
+     <None Include="Assets\Elementals\!Readme.txt" />
+     <None Include="Assets\3DForge\FantasyExteriors\Village &amp; Towns\Documents\Blacksmith v1.0 - user guide.txt" />
+     <None Include="Assets\readme 1.txt" />
+     <None Include="Assets\PolyIslandPack\Shaders\PolyIsland_VertexColor_foliage.shader" />
+     <None Include="Assets\PolyIslandPack\Shaders\PolyIsland_VertexColor_mobile_unlit.shader" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>D:/Necro Lands PC/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="Common">
+ <HintPath>D:/Necro Lands PC/Assets/Plugins/UnityPurchasing/Bin/Common.dll</HintPath>
+ </Reference>
+ <Reference Include="Editor">
+ <HintPath>D:/Necro Lands PC/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Security">
+ <HintPath>D:/Necro Lands PC/Assets/Plugins/UnityPurchasing/Bin/Security.dll</HintPath>
+ </Reference>
+ <Reference Include="Stores">
+ <HintPath>D:/Necro Lands PC/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+ </Reference>
+ <Reference Include="Apple">
+ <HintPath>D:/Necro Lands PC/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+ </Reference>
+ <Reference Include="Tizen">
+ <HintPath>D:/Necro Lands PC/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
+ </Reference>
+ <Reference Include="winrt">
+ <HintPath>D:/Necro Lands PC/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{A3E62AF8-9773-9192-2B25-CEF0B93B9C3A}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

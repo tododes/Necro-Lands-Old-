@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: cd5c903e2427c374dab4b1b1eec53437
+timeCreated: 1453014751
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Anima_Data_Counter_FK@0
+    100002: Anima_Data_Counter_SaIControl@0
+    100004: Animation_Data_Counter
+    100006: Camera
+    100008: Chest
+    100010: Head
+    100012: Hips
+    100014: Left_ArmFK
+    100016: Left_ArmIK
+    100018: Left_ControlIKGoalFoot
+    100020: Left_ControlIKPlaneUpLeg
+    100022: Left_FootWorldControl
+    100024: Left_IKGoalRightHand
+    100026: Left_IKPlaneNullArm
+    100028: Left_LegFK
+    100030: Left_LegIK
+    100032: Left_NullFoot
+    100034: Left_NullLeg
+    100036: Left_NullRightArm
+    100038: Left_NullRightForeArm
+    100040: Left_NullRightHand
+    100042: Left_NullUpLeg
+    100044: Left_PoleElbow
+    100046: Left_PoleKnee
+    100048: LeftArm
+    100050: LeftFoot
+    100052: LeftForeArm
+    100054: LeftHand
+    100056: LeftHandMiddle1
+    100058: LeftHandMiddle2
+    100060: LeftHandMiddle3
+    100062: LeftHandThumb1
+    100064: LeftHandThumb2
+    100066: LeftHandThumb3
+    100068: LeftLeg
+    100070: LeftShoulder
+    100072: LeftToes
+    100074: LeftUpLeg
+    100076: Light
+    100078: Lucy_gun_(1)
+    100080: Lucy_gun_(2)
+    100082: Lucy_Rev
+    100084: //RootNode
+    100086: Master_Lucy_Rev
+    100088: Neck
+    100090: Right_ArmFK
+    100092: Right_ArmIK
+    100094: Right_ControlIKGoalFoot
+    100096: Right_ControlIKPlaneUpLeg
+    100098: Right_FootWorldControl
+    100100: Right_IKGoalRightHand
+    100102: Right_IKPlaneNullArm
+    100104: Right_LegFK
+    100106: Right_LegIK
+    100108: Right_NullArm
+    100110: Right_NullFoot
+    100112: Right_NullForeArm
+    100114: Right_NullHand
+    100116: Right_NullLeg
+    100118: Right_NullUpLeg
+    100120: Right_PoleElbow
+    100122: Right_PoleKnee
+    100124: RightArm
+    100126: RightFoot
+    100128: RightForeArm
+    100130: RightHand
+    100132: RightHandMiddle1
+    100134: RightHandMiddle2
+    100136: RightHandMiddle3
+    100138: RightHandThumb1
+    100140: RightHandThumb2
+    100142: RightHandThumb3
+    100144: RightLeg
+    100146: RightShoulder
+    100148: RightToes
+    100150: RightUpLeg
+    100152: Spine
+    100154: Zero_Left_PoleElbow
+    100156: Zero_Left_PoleKnee
+    100158: Zero_Right_PoleElbow
+    100160: Zero_Right_PoleKnee
+    400000: Anima_Data_Counter_FK@0
+    400002: Anima_Data_Counter_SaIControl@0
+    400004: Animation_Data_Counter
+    400006: Camera
+    400008: Chest
+    400010: Head
+    400012: Hips
+    400014: Left_ArmFK
+    400016: Left_ArmIK
+    400018: Left_ControlIKGoalFoot
+    400020: Left_ControlIKPlaneUpLeg
+    400022: Left_FootWorldControl
+    400024: Left_IKGoalRightHand
+    400026: Left_IKPlaneNullArm
+    400028: Left_LegFK
+    400030: Left_LegIK
+    400032: Left_NullFoot
+    400034: Left_NullLeg
+    400036: Left_NullRightArm
+    400038: Left_NullRightForeArm
+    400040: Left_NullRightHand
+    400042: Left_NullUpLeg
+    400044: Left_PoleElbow
+    400046: Left_PoleKnee
+    400048: LeftArm
+    400050: LeftFoot
+    400052: LeftForeArm
+    400054: LeftHand
+    400056: LeftHandMiddle1
+    400058: LeftHandMiddle2
+    400060: LeftHandMiddle3
+    400062: LeftHandThumb1
+    400064: LeftHandThumb2
+    400066: LeftHandThumb3
+    400068: LeftLeg
+    400070: LeftShoulder
+    400072: LeftToes
+    400074: LeftUpLeg
+    400076: Light
+    400078: Lucy_gun_(1)
+    400080: Lucy_gun_(2)
+    400082: Lucy_Rev
+    400084: //RootNode
+    400086: Master_Lucy_Rev
+    400088: Neck
+    400090: Right_ArmFK
+    400092: Right_ArmIK
+    400094: Right_ControlIKGoalFoot
+    400096: Right_ControlIKPlaneUpLeg
+    400098: Right_FootWorldControl
+    400100: Right_IKGoalRightHand
+    400102: Right_IKPlaneNullArm
+    400104: Right_LegFK
+    400106: Right_LegIK
+    400108: Right_NullArm
+    400110: Right_NullFoot
+    400112: Right_NullForeArm
+    400114: Right_NullHand
+    400116: Right_NullLeg
+    400118: Right_NullUpLeg
+    400120: Right_PoleElbow
+    400122: Right_PoleKnee
+    400124: RightArm
+    400126: RightFoot
+    400128: RightForeArm
+    400130: RightHand
+    400132: RightHandMiddle1
+    400134: RightHandMiddle2
+    400136: RightHandMiddle3
+    400138: RightHandThumb1
+    400140: RightHandThumb2
+    400142: RightHandThumb3
+    400144: RightLeg
+    400146: RightShoulder
+    400148: RightToes
+    400150: RightUpLeg
+    400152: Spine
+    400154: Zero_Left_PoleElbow
+    400156: Zero_Left_PoleKnee
+    400158: Zero_Right_PoleElbow
+    400160: Zero_Right_PoleKnee
+    2300000: Lucy_gun_(1)
+    2300002: Lucy_gun_(2)
+    3300000: Lucy_gun_(1)
+    3300002: Lucy_gun_(2)
+    4300000: Lucy_Rev
+    4300002: Lucy_gun_(1)
+    4300004: Lucy_gun_(2)
+    7400000: Base Stack
+    9500000: //RootNode
+    13700000: Lucy_Rev
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Base Stack
+      takeName: Base Stack
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Light
+        weight: 1
+      - path: Master_Lucy_Rev
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Anima_Data_Counter_FK@0
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Anima_Data_Counter_SaIControl@0
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Animation_Data_Counter
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Left_ControlIKPlaneUpLeg
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Left_ControlIKPlaneUpLeg/Left_NullUpLeg
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Left_ControlIKPlaneUpLeg/Left_NullUpLeg/Left_NullLeg
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Left_ControlIKPlaneUpLeg/Left_NullUpLeg/Left_NullLeg/Left_NullFoot
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/LeftUpLeg
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Right_ControlIKPlaneUpLeg
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Right_ControlIKPlaneUpLeg/Right_NullUpLeg
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Right_ControlIKPlaneUpLeg/Right_NullUpLeg/Right_NullLeg
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Right_ControlIKPlaneUpLeg/Right_NullUpLeg/Right_NullLeg/Right_NullFoot
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/RightUpLeg
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/RightUpLeg/RightLeg/RightFoot/RightToes
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm/Left_NullRightArm
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm/Left_NullRightArm/Left_NullRightForeArm
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/Left_IKPlaneNullArm/Left_NullRightArm/Left_NullRightForeArm/Left_NullRightHand
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm/Right_NullArm
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm/Right_NullArm/Right_NullForeArm
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/Right_IKPlaneNullArm/Right_NullArm/Right_NullForeArm/Right_NullHand
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/Zero_Left_PoleElbow
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/Zero_Left_PoleElbow/Left_PoleElbow
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/Zero_Left_PoleElbow/Left_PoleElbow/Left_ArmFK
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/Zero_Left_PoleElbow/Left_PoleElbow/Left_ArmIK
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/Zero_Right_PoleElbow
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/Zero_Right_PoleElbow/Right_PoleElbow
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/Zero_Right_PoleElbow/Right_PoleElbow/Right_ArmFK
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Spine/Chest/Zero_Right_PoleElbow/Right_PoleElbow/Right_ArmIK
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Zero_Left_PoleKnee
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Zero_Left_PoleKnee/Left_PoleKnee
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Zero_Left_PoleKnee/Left_PoleKnee/Left_LegFK
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Zero_Left_PoleKnee/Left_PoleKnee/Left_LegIK
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Zero_Right_PoleKnee
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Zero_Right_PoleKnee/Right_PoleKnee
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Zero_Right_PoleKnee/Right_PoleKnee/Right_LegFK
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Hips/Zero_Right_PoleKnee/Right_PoleKnee/Right_LegIK
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Left_FootWorldControl
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Left_FootWorldControl/Left_ControlIKGoalFoot
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Left_IKGoalRightHand
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Left_IKGoalRightHand/Lucy_gun_(2)
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Right_FootWorldControl
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Right_FootWorldControl/Right_ControlIKGoalFoot
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Right_IKGoalRightHand
+        weight: 1
+      - path: Master_Lucy_Rev/Lucy_Rev/Right_IKGoalRightHand/Lucy_gun_(1)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
